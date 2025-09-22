@@ -1,0 +1,1 @@
+<x-appsaga-logo {{ $attributes }} />
